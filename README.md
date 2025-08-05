@@ -41,9 +41,10 @@ I’m always learning and evolving — currently following a roadmap to become a
   </a>
 </div>
 
+---
 
-
-Thanks for visiting! 🚀
-
+<div align="center">
+  <strong>Thanks for visiting! 🚀</strong>
+</div>
 
 
