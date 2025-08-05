@@ -3,8 +3,8 @@
 💻 Java Developer | Back-end
 Currently focused on building RESTful APIs with Spring Boot, JPA, and PostgreSQL. Always learning and evolving towards full stack development.
 
----
-### 🔍 Feel free to connect with me:
+
+#### 🔍 Feel free to connect with me:
 
 <div>
   <a href="https://www.linkedin.com/in/wagner-quadros-123301b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,9 +23,7 @@ Currently focused on building RESTful APIs with Spring Boot, JPA, and PostgreSQL
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Back-end  
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)  
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
+**Back-end:**[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
 
 ---
 
