@@ -4,11 +4,13 @@
 Currently focused on building RESTful APIs with Spring Boot, JPA, and PostgreSQL. Always learning and evolving towards full stack development.
 
 ---
-🔍 ###You can find me at:
+### 🔍 Feel free to connect with me:
+
 <div>
   <a href="https://www.linkedin.com/in/wagner-quadros-123301b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/w4gn3r_0q" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 ---
 
 <div>
@@ -17,21 +19,30 @@ Currently focused on building RESTful APIs with Spring Boot, JPA, and PostgreSQL
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img aling="center" alt="W-Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img aling="center" alt="W-Spring" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img aling="center" alt="W-Selenium" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img aling="center" alt="W-Unity" heigth="30" width="40" src="https://files.rubixdev.de/logos/unity.svg" />
-  <img aling="center" alt="W-CSharp" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img aling="center" alt="W-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img aling="center" alt="W-Html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="center" alt="W-JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img aling="center" alt="W-Css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" alt="W-Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img aling="center" alt="W-C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+---
 
-##
+## 🛠️ Tech Stack
+
+### 👨‍💻 Back-end  
+[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
+
+---
+
+### 🗄️ Database  
+[![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-lightgrey?logo=sqlite)](https://en.wikipedia.org/wiki/SQL)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://www.postgresql.org/)
+
+---
+
+### ⚙️ Tools & Workflow  
+[![Git](https://img.shields.io/badge/Git-Control-orange?logo=git)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/)  
+[![Trello](https://img.shields.io/badge/Trello-Boards-0052CC?logo=trello)](https://trello.com/)  
+[![Postman](https://img.shields.io/badge/Postman-API_Development-orange?logo=postman)](https://www.postman.com/)
+
+---
+
 
 
 
