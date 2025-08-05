@@ -30,7 +30,7 @@ I’m always learning and evolving — currently following a roadmap to become a
 
 **💡 IDEs & Editors:** [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Java-blue?logo=intellijidea)](https://www.jetbrains.com/idea/) [![PyCharm](https://img.shields.io/badge/PyCharm-Python-green?logo=pycharm)](https://www.jetbrains.com/pycharm/) [![VS Code](https://img.shields.io/badge/VS_Code-Flexible-lightgrey?logo=visualstudiocode)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-CSharp-purple?logo=visualstudio)](https://visualstudio.microsoft.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-Kotlin-green?logo=androidstudio)](https://developer.android.com/studio)
 
----
+## 📊 Github Stats and Most Used Languages
 
 <div align="center">
   <a href="https://github.com/wagnerquadros">
@@ -41,7 +41,7 @@ I’m always learning and evolving — currently following a roadmap to become a
   </a>
 </div>
 
----
+
 
 Thanks for visiting! 🚀
 
