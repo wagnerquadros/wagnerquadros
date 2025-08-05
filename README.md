@@ -1,8 +1,15 @@
-### Hi there 👋 I'm Wagner Quadros --->> W4gn3R_0Q
+## Hi there 👋 I'm Wagner Quadros --->> W4gn3R_0Q
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Python and Unity C# 
-- ⚡ Fun fact: ...
+💻 Java Developer | Back-end
+Currently focused on building RESTful APIs with Spring Boot, JPA, and PostgreSQL. Always learning and evolving towards full stack development.
+
+---
+🔍 ###You can find me at:
+<div>
+  <a href="https://www.linkedin.com/in/wagner-quadros-123301b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/w4gn3r_0q" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+---
 
 <div>
   <a href="https://github.com/wagnerquadros">
@@ -26,8 +33,5 @@
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/wagner-quadros-123301b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/w4gn3r_0q" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
 
