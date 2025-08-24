@@ -19,16 +19,18 @@ I’m always learning and evolving — currently following a roadmap to become a
 
 **🖥️ Back-end:** [![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
 
-**🗄️ Database:** [![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-lightgrey?logo=sqlite)](https://en.wikipedia.org/wiki/SQL) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://www.postgresql.org/)
+**🗄️ Database:** [![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-lightgrey?logo=sqlite)](https://en.wikipedia.org/wiki/SQL) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb)](https://www.mongodb.com/)
 
 **🎮 Game Development:** [![Unity](https://img.shields.io/badge/Unity-2D_Dev-black?logo=unity)](https://unity.com/) [![C#](https://img.shields.io/badge/CSharp-Game_Logic-239120?logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 **📱 Android Development:** [![Kotlin](https://img.shields.io/badge/Kotlin-Mobile_Apps-7F52FF?logo=kotlin)](https://kotlinlang.org/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI_Toolkit-blue?logo=android)](https://developer.android.com/jetpack/compose)
 
 
-**🧰 Tools & Workflow:** [![Git](https://img.shields.io/badge/Git-Control-orange?logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/) [![Trello](https://img.shields.io/badge/Trello-Boards-0052CC?logo=trello)](https://trello.com/) [![Postman](https://img.shields.io/badge/Postman-API_Development-orange?logo=postman)](https://www.postman.com/)
+**🧰 Tools & Workflow:** [![Git](https://img.shields.io/badge/Git-Control-orange?logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/) [![Trello](https://img.shields.io/badge/Trello-Boards-0052CC?logo=trello)](https://trello.com/) [![Postman](https://img.shields.io/badge/Postman-API_Development-orange?logo=postman)](https://www.postman.com/) [![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)](https://www.docker.com/)
 
 **💡 IDEs & Editors:** [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Java-blue?logo=intellijidea)](https://www.jetbrains.com/idea/) [![PyCharm](https://img.shields.io/badge/PyCharm-Python-green?logo=pycharm)](https://www.jetbrains.com/pycharm/) [![VS Code](https://img.shields.io/badge/VS_Code-Flexible-lightgrey?logo=visualstudiocode)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-CSharp-purple?logo=visualstudio)](https://visualstudio.microsoft.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-Kotlin-green?logo=androidstudio)](https://developer.android.com/studio)
+
+**🔧 Other Languages & Techs:** [![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📊 Github Stats and Most Used Languages
 
