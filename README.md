@@ -34,13 +34,13 @@ I’m always learning and evolving — currently following a roadmap to become a
 
 ## 📊 Github Stats and Most Used Languages
 
+
 <div align="center">
-  <a href="https://github.com/wagnerquadros">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerquadros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/wagnerquadros">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wagnerquadros&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&theme=tokyonight)
+
 </div>
 
 ---
