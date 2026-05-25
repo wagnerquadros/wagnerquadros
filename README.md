@@ -34,12 +34,11 @@ I’m always learning and evolving — currently following a roadmap to become a
 
 ## 📊 Github Stats and Most Used Languages
 
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wagnerquadros&show_icons=true&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wagnerquadros&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
