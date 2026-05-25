@@ -31,17 +31,6 @@ I’m always learning and evolving — currently following a roadmap to become a
 **💡 IDEs & Editors:** [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Java-blue?logo=intellijidea)](https://www.jetbrains.com/idea/) [![PyCharm](https://img.shields.io/badge/PyCharm-Python-green?logo=pycharm)](https://www.jetbrains.com/pycharm/) [![VS Code](https://img.shields.io/badge/VS_Code-Flexible-lightgrey?logo=visualstudiocode)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-CSharp-purple?logo=visualstudio)](https://visualstudio.microsoft.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-Kotlin-green?logo=androidstudio)](https://developer.android.com/studio)
 
 **🔧 Other Languages & Techs:** [![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## 📊 Github Stats and Most Used Languages
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wagnerquadros&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerquadros&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
