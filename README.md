@@ -82,7 +82,6 @@ A full microservices ecosystem with authentication, inter-service communication 
 ![FeignClient](https://img.shields.io/badge/FeignClient-007396?style=flat-square&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MapStruct](https://img.shields.io/badge/MapStruct-B22222?style=flat-square&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-EA2845?style=flat-square&logoColor=white)
 
 **Database**
 
