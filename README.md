@@ -29,19 +29,6 @@ What sets me apart: I bring **17+ years of experience in the financial and agrib
 
 ---
 
-### 🌾 SimulaPRONAF — Rural Credit Simulator
-
-> Android app + REST API for simulating Brazilian federal rural credit lines (PRONAF/PRONAMP).
-
-Built from real-world domain expertise: 17 years in rural banking turned into a practical tool for farmers and rural producers.
-
-| Repository | Description | Stack |
-|---|---|---|
-| [SimulaPronaf-API](https://github.com/wagnerquadros/SimulaPronaf-API) | Back-end REST API | Spring Boot · PostgreSQL |
-| [simula_pronaf](https://github.com/wagnerquadros/simula_pronaf) | Android app | Kotlin · Jetpack Compose |
-
----
-
 ### 📅 Task Scheduler — Microservices Architecture
 
 > Distributed task scheduling system built as independent, communicating microservices.
